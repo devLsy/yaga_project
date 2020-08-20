@@ -16,7 +16,7 @@
 					
                 <div class="item active">
                 	<video id="myVideo" controls autoplay loop>
-                		<source src="<c:url value='/resources/video/crud_1.mp4' />">이 브라우저는 video태그를 지원하지 않습니다.
+                		<source src="http://iansystem.kr/video/test.mp4">이 브라우저는 video태그를 지원하지 않습니다.
 					</video>
                     <%-- <div class="container">
                         <div class="row slide-margin">		
