@@ -83,7 +83,7 @@ public class PageMaker {
 	public void setPrev(boolean prev) {
 		this.prev = prev;
 	}
-
+	
 	public boolean isNext() {
 		return next;
 	}
