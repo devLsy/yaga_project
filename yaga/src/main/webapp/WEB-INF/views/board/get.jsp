@@ -107,17 +107,17 @@ $(document).ready(function(e) {
 /* 댓글 관련 */
 $(document).ready(function() {
 
-	console.log('========================');
-	console.log("JS TEST~!!!!!!!!");
+	//console.log('========================');
+	//console.log("JS TEST~!!!!!!!!");
 
 	var bnoValue = '<c:out value="${board.bno}" />';
 	// 댓글 등록 테스트
-	replyService.add(
+	/* replyService.add(
 			{reply: "JS TEST", replyer: "TESTER", bno: bnoValue},
 				function(result) {
 					alert("RESULT: " + result);
 				}
-			);
+			); */
 	
 });
 </script>
